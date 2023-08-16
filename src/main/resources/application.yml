@@ -1,0 +1,7 @@
+spring:
+  #H2 database
+  datasource:
+    url: jdbc:postgresql://containers-us-west-157.railway.app:7510/railway
+    username: postgres
+    password: 27LcxdcdxTBJQ9pdZ2vc
+    driver-class-name: org.postgresql.Driver
